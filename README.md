@@ -8,7 +8,7 @@ BONKFIRE is the ultimate meme movement on Solana. Built for believers who know t
 
 **Token Address:** `93YPY8Zrbuu1zvq5y2etRDh7munF1Ya5ZGCJQsSH45FD`
 
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge)](https://nickdabizaz.github.io/bonkfire.github.io/)
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge)](https://wolfdev12.github.io/bonkfire/)
 [![Jupiter](https://img.shields.io/badge/BUY-JUPITER-orange?style=for-the-badge)](https://jup.ag)
 [![Raydium](https://img.shields.io/badge/BUY-RAYDIUM-blue?style=for-the-badge)](https://raydium.io)
 
